@@ -1,1 +1,0 @@
-{"name":"Local: sample","url":"c:\\CSES\\dp\\sample.cpp","tests":[{"id":1749375596049,"input":"5\n00100\n10011","output":"00001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CSES\\dp\\sample.cpp","group":"local","local":true}
